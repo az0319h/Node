@@ -3,7 +3,7 @@
 // #5.1 NPM(Node Package Manager) 챕터 소개 : 자바스크립트로 개발할 때 생산성 있게 개발할 수 있도록 도와주며 많은 라이브러리를 보유하고 있다.
 
 // #5.2 NPM 시작하기
-// 콘솔에  npt init 입력 후 .json파일 만들기 그 후에 .json에서 scritps 내부에  "start": "node app" 추가해서 콘솔에서 npm start를 사용해서 app.js가 실행될 수 있도록 만들 수 있다.
+// 콘솔에  npm init 입력 후 .json파일 만들기 그 후에 .json에서 scritps 내부에  "start": "node app" 추가해서 콘솔에서 npm start를 사용해서 app.js가 실행될 수 있도록 만들 수 있다.
 console.log("start npm!")
 
 // #5.3 소프트웨어 라이센스란? 꿀사이트
